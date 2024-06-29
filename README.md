@@ -8,8 +8,9 @@
 ## 🚀 Características
 
 - **📝 Gestión de Pedidos:** Crear, modificar, eliminar y listar pedidos fácilmente.
-- **👥 Gestión de Clientes:** Añadir y buscar clientes en la base de datos.
-- **📦 Gestión de Productos:** Añadir y listar productos disponibles para los pedidos.
+- **👥 Gestión de Clientes:** PROXIMAMENTE...
+- **📦 Gestión de Productos:** PROXIMAMENTE...
+- **👮‍♂️ Gestión de Usuarios:** PROXIMAMENTE...
 - **💻 Interfaz de Usuario:** Menú interactivo y amigable para navegar y ejecutar operaciones del sistema.
 - **⚠️ Manejo de Excepciones:** Gestión robusta de errores y transacciones para mantener la integridad de los datos.
 
@@ -19,17 +20,3 @@
 - **Base de Datos:** MySQL
 - **Patrones de Diseño:** MVC y DAO
 - **Conexión a la Base de Datos:** JDBC
-
-## 📋 Requisitos
-
-- **Java 8 o superior**
-- **MySQL 5.7 o superior**
-- **Conector JDBC para MySQL**
-
-## 📥 Instalación
-
-1. **Clonar el Repositorio:**
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
