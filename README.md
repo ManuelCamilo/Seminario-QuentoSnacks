@@ -3,7 +3,7 @@
 
 ## 🌟 Descripción
 
-**Quento Snacks** es un sistema de gestión de pedidos desarrollado en Java que permite la creación, modificación, eliminación y visualización de pedidos, así como gestionar clientes y productos asociados a estos pedidos. Utiliza una arquitectura moderna basada en el patrón **Modelo-Vista-Controlador (MVC)** y **Data Access Object (DAO)** para garantizar una estructura modular y mantenible.
+**Sistema de Gestión de pedidos Quento Snacks** es un aplicativo desarrollado en Java que permite la creación, modificación, eliminación y visualización de pedidos, así como gestionar clientes y productos asociados a estos pedidos. Utiliza una arquitectura moderna basada en el patrón **Modelo-Vista-Controlador (MVC)** y **Data Access Object (DAO)** para garantizar una estructura modular y mantenible.
 
 ## 🚀 Características
 
