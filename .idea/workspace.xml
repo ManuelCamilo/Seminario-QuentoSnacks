@@ -1,27 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="01ffbf75-0008-4a15-9a88-1736e45a2df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuentoSnacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PedidoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuentoSnacks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/QuentoSnacks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/PedidoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PedidoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ProductoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/IClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/IClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/IPedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/IPedidoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/IProductoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/IProductoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/PedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/PedidoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/ProductoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ProductoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Deposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Deposito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/DetalleItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/DetalleItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/DetallePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/DetallePedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iHIu356p0jvb6Ng2THR1L2eLSs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,13 +60,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Manu/IdeaProjects/QuentoSnacks/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,5 +91,20 @@
       <updated>1719141297360</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/Menu.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
